@@ -1,7 +1,7 @@
 name: spin_wheel_web
 description: "A demonstration of package based spiiner game"
 version: 0.1.0
-homepage: https://github.com/yourusername/spin_wheel
+homepage: https://github.com/muniryasir/spin_wheel_web
 author: Yasir Munir <https://www.upwork.com/freelancers/~01487e462380a1cd6a>
 
 # The following line prevents the package from being accidentally published to
